@@ -1,4 +1,3 @@
-# CNN-Convolutional Neural Networks
  
 # Week 1 Quiz
 
